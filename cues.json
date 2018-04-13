@@ -1,0 +1,218 @@
+[
+	{
+		"time": [0,0],
+		"sel": "#introduction-ANIls3",
+		"text": "Introduction"
+	},
+	{
+		"time": [0,40],
+		"sel": "#id-JeIgsO",
+		"scroll": true
+	},
+	{
+		"time": [1,3],
+		"sel": "#id-45INsm",
+		"scroll": true
+	},
+	{
+		"time": [1,3],
+		"sel": "#id-BeIZsA",
+		"scroll": true,
+		"text": "Model Validation"
+	},
+	{
+		"time": [1,37],
+		"sel": "#id-bAIDs5T8",
+		"scroll": true,
+		"text": "Wrong Way"
+	},
+	{
+		"time": [2,5],
+		"sel": "#id-yYhGH1TY",
+		"scroll": true
+	},
+	{
+		"time": [2,17],
+		"sel": "#id-eGIPfNTN",
+		"scroll": true
+	},
+	{
+		"time": [3,5],
+		"sel": "#id-roIpsxSw",
+		"scroll": true,
+		"text": "Right Way"
+	},
+	{
+		"time": [3,20],
+		"sel": "#id-jEhyTMS4",
+		"scroll": true
+	},
+	{
+		"time": [3,30],
+		"sel": "#id-yYhDSkSY",
+		"scroll": true
+	},
+	{
+		"time": [4,1],
+		"sel": "#id-mlIesyHa",
+		"scroll": true,
+		"text": "Even Better Way"
+	},
+	{
+		"time": [4,55],
+		"sel": "#id-eJhvSpHN",
+		"scroll": true
+	},
+		{
+		"time": [5,13],
+		"sel": "#id-YkhpFgH9",
+		"scroll": true
+	},
+	{
+		"time": [5,22],
+		"sel": "#id-YoIGfgH9",
+		"scroll": true
+	},
+	{
+		"time": [6,1],
+		"sel": "#id-pYhXIqH3",
+		"scroll": true
+	},
+	{
+		"time": [6,30],
+		"sel": "#id-98h4UaHj",
+		"scroll": true
+	},
+	{
+		"time": [6,46],
+		"sel": "#id-XDhjCvHy",
+		"scroll": true
+	},
+	{
+		"time": [7,19],
+		"sel": "#id-dQheu4H3",
+		"scroll": true
+	},
+	{
+		"time": [7,47],
+		"sel": "#id-OgI5sM",
+		"scroll": true,
+		"text": "Select Best Model"
+	},
+	{
+		"time": [8,11],
+		"sel": "#id-WAhmS8",
+		"scroll": true
+	},
+	{
+		"time": [9,5],
+		"sel": "#id-yYhMt1",
+		"scroll": true
+	},
+	{
+		"time": [9,37],
+		"sel": "#id-YkhZco",
+		"scroll": true
+	},
+	{
+		"time": [10,35],
+		"sel": "#id-nMImsW",
+		"scroll": true,
+		"text": "Bias and Variance"
+	},
+	{
+		"time": [11,3],
+		"sel": "#id-j2IauDHq",
+		"scroll": true
+	},
+	{
+		"time": [12,58],
+		"sel": "#id-q9IptPHq",
+		"scroll": true
+	},
+	{
+		"time": [14,50],
+		"sel": "#id-ppIXIqHz",
+		"scroll": true
+	},
+	{
+		"time": [16,18],
+		"sel": "#id-j2IvsWFq",
+		"scroll": true,
+		"text": "Validation Curves"
+	},
+	{
+		"time": [16,57],
+		"sel": "#id-E3hoFaFW",
+		"scroll": true
+	},
+ {
+		"time": [17,14],
+		"sel": "#id-pYh1fVFz",
+		"scroll": true
+	},
+	{
+		"time": [17,23],
+		"sel": "#id-oYhZcbF9",
+		"scroll": true
+	},
+	{
+		"time": [18,2],
+		"sel": "#id-dQh4h9F9",
+		"scroll": true
+	},
+	{
+		"time": [19,17],
+		"sel": "#id-8zhWuRF8",
+		"scroll": true
+	},
+	{
+		"time": [19,48],
+		"sel": "#id-WAhruw",
+		"scroll": true,
+		"text": "Learning Curves"
+	},
+	{
+		"time": [20,9],
+		"sel": "#id-jEhnSD",
+		"scroll": true
+	},
+	{
+		"time": [21,15],
+		"sel": "#id-YoIZcg",
+		"scroll": true
+	},
+	{
+		"time": [22,24],
+		"sel": "#id-98hduvUN",
+		"scroll": true,
+		"text": "Learning Curves, Scikit-Learn"
+	},
+	{
+		"time": [24,22],
+		"sel": "#id-jEhyTW",
+		"scroll": true,
+		"text": "Grid Search"
+	},
+	{
+		"time": [24,53],
+		"sel": "#id-eJhdHj",
+		"scroll": true
+	},
+	{
+		"time": [25,4],
+		"sel": "#id-Ykhqtr",
+		"scroll": true
+	},
+	{
+		"time": [25,14],
+		"sel": "#id-gYhZiB",
+		"scroll": true
+	},
+	{
+		"time": [25,51],
+		"sel": "#id-mlIesG",
+		"scroll": true,
+		"text": "Summary"
+	}
+]
