@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/oreillymedia/binder-hyperparameter/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/oreillymedia/binder-hyperparameter/master?filepath=index.ipynb)
